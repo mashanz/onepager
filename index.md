@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# GSFarm
 
-You can use the [editor on GitHub](https://github.com/mashanz/onepager/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Company Overview
+GSFarm adalah management vertical indoor farming
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Business Model
+B2B B2C
 
-### Markdown
+### Customer Segments
+Retail
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Market Size
+(need research)
 
-```markdown
-Syntax highlighted code block
+### Problem Statment
+1. Lahan Pertanian Berkurang
+2. Polusi
+3. Hama
+4. Produksi tidak stabil
+5. Cuaca Pancaroba
+6. Kualitas Tanaman
 
-# Header 1
-## Header 2
-### Header 3
+### Solution
+1. Vertikal Farming
+2. Pertanian Indoor
+3. Iklim Buatan
+4. Manajement Penanaman
 
-- Bulleted
-- List
+### Key Metrics
 
-1. Numbered
-2. List
+### Key Player
 
-**Bold** and _Italic_ and `Code` text
+### Unique Selling Proposition
 
-[Link](url) and ![Image](src)
-```
+### Cost Structure
+1. Riset
+2. Pembangunan
+3. Pemeliharaan
+4. Produksi
+5. Legalitas
+6. Pajak
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Team Member
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mashanz/onepager/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
+None
 
-### Support or Contact
+### Growth Chart
+None
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Asking For
+Pembiayaan 1.1M (Hibah)
+- Hangar 10x10 meter persegi (150jt)
+- 25 Modul tanam (200jt)
+- Infrastuktur cuaca buatan dan kelistrikan (150jt)
+- Riset, Operasional dan perawatan 2 tahun (600jt)
+
+
+### Achievments
+2018 Backup Best Idea
