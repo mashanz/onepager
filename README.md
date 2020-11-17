@@ -54,7 +54,7 @@ Pembiayaan 1.1M (Hibah)
 - Hangar 10x10 meter persegi (150jt)
 - 25 Modul tanam (200jt)
 - Infrastuktur cuaca buatan dan kelistrikan (150jt)
-- Operasional dan perawatan 2 tahun (600jt)
+- Riset, Operasional dan perawatan 2 tahun (600jt)
 
 
 ### Achievments
