@@ -1,8 +1,6 @@
-# One Pager Startup
+# GSFarm
 
-<div> 
-<center><h1>GSFarm</h1></center>
-</div>
+<hr/>
 
 ### 1. Company Overview
 GSFarm adalah management vertical indoor farming
