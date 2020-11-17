@@ -1,41 +1,61 @@
 # GSFarm
 
-<hr/>
-
-### 1. Company Overview
+### Company Overview
 GSFarm adalah management vertical indoor farming
 
-### 2. Business Model
+### Business Model
 B2B B2C
 
-### 3. Customer Segments
+### Customer Segments
 Retail
 
-### 4. Market Size
+### Market Size
 (need research)
 
-### 5. Problem Statment
-- Research Founding
-- Tools Availability
-- Cost Production
+### Problem Statment
+1. Lahan Pertanian Berkurang
+2. Polusi
+3. Hama
+4. Produksi tidak stabil
+5. Cuaca Pancaroba
+6. Kualitas Tanaman
 
-### 6. Solution
--
+### Solution
+1. Vertikal Farming
+2. Pertanian Indoor
+3. Iklim Buatan
+4. Manajement Penanaman
 
-### 7. Key Metrics
+### Key Metrics
 
-### 8. Key Player
+### Key Player
 
-### 9. Unique Selling Proposition
+### Unique Selling Proposition
 
-### 10. Cost Structure
+### Cost Structure
+1. Riset
+2. Pembangunan
+3. Pemeliharaan
+4. Produksi
+5. Legalitas
+6. Pajak
 
-### 11. Team Member
 
-### 12. Contact
+### Team Member
 
-### 13. Growth Chart
+### Contact
+None
 
-### 14. Asking For
+### Growth Chart
+None
 
-### 15. Achievments
+### Asking For
+Pembiayaan 1.1M
+- Hangar 10x10 meter persegi (150jt)
+- 25 Modul tanam (200jt)
+- Infrastuktur cuaca buatan dan kelistrikan (150jt)
+- Operasional dan perawatan 2 tahun (600jt)
+
+
+### Achievments
+2018 Backup Best Idea
