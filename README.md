@@ -50,7 +50,7 @@ None
 None
 
 ### Asking For
-Pembiayaan 1.1M
+Pembiayaan 1.1M (Hibah)
 - Hangar 10x10 meter persegi (150jt)
 - 25 Modul tanam (200jt)
 - Infrastuktur cuaca buatan dan kelistrikan (150jt)
